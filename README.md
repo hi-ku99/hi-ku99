@@ -101,4 +101,5 @@
 </a> 
 </p>
 
+## 🏆 Github Profile Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=hi-ku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
