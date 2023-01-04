@@ -8,8 +8,11 @@
 
 - ⚡ Fun fact **My hobby is snowboarding. Let's go to the slopes together!**
 
-<p align="left">
-</p>
+## My Qiita
+[![My Qiita](https://img.shields.io/badge/qiita-55C500.svg)](http://qiita.com/hi-ku)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hi-ku/posts.svg)](http://qiita.com/hi-ku)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hi-ku/contributions.svg)](http://qiita.com/hi-ku)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/hi-ku/followers.svg)](http://qiita.com/hi-ku)
 
 ## 🛠️ Languages and Tools:
 <p align="left"> 
@@ -97,9 +100,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a> 
 </p>
-
-## My Qiita
-[![My Qiita](https://img.shields.io/badge/qiita-55C500.svg)](http://qiita.com/hi-ku)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/hi-ku/posts.svg)](http://qiita.com/hi-ku)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hi-ku/contributions.svg)](http://qiita.com/hi-ku)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/hi-ku/followers.svg)](http://qiita.com/hi-ku)
