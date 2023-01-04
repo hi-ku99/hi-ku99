@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-# 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -98,9 +98,7 @@
 </a> 
 </p>
 
-# My Qiita posts
+## My Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hi-ku/posts.svg)](http://qiita.com/hi-ku)
-# My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hi-ku/contributions.svg)](http://qiita.com/hi-ku)
-# My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/hi-ku/followers.svg)](http://qiita.com/hi-ku)
