@@ -99,7 +99,6 @@
 </p>
 
 ## My Qiita
-<a href="https://qiita.com/hi_ku" target="_blank"><img alt="Small" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 [![My Qiita](https://img.shields.io/badge/qiita-55C500.svg)](http://qiita.com/hi-ku)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hi-ku/posts.svg)](http://qiita.com/hi-ku)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hi-ku/contributions.svg)](http://qiita.com/hi-ku)
