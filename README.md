@@ -99,7 +99,7 @@
 </p>
 
 ## My Qiita
-[![My Qiita posts](https://img.shields.io/badge/qiita-55C500.svg)](http://qiita.com/hi-ku)
+[![My Qiita posts](img alt="Medium" https://img.shields.io/badge/qiita-55C500.svg)](http://qiita.com/hi-ku)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hi-ku/posts.svg)](http://qiita.com/hi-ku)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hi-ku/contributions.svg)](http://qiita.com/hi-ku)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/hi-ku/followers.svg)](http://qiita.com/hi-ku)
