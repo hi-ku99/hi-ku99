@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiroki Kusatake</h1>
 
-<p>
-<a href="https://github.com/hi-ku99" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://qiita.com/hi-ku" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
-</p>
-
-
 <h3 align="center">A Graduate Student Programmer</h3>
 
 - 🌱 I’m currently learning **Data Science and Linux**
