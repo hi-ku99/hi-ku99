@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hiroki Kusatake</h1>
 <h3 align="center">A Graduate Student Programmer</h3>
 
+- 🌱 I’m currently learning **Data Science and Linux**
+
+- 👨‍💻 All of my projects are available at [https://wood-chopper-c75.notion.site/Portfolio-d75edd4b05044cbb9f626ca919f2faf8](https://wood-chopper-c75.notion.site/Portfolio-d75edd4b05044cbb9f626ca919f2faf8)
+
+- 💬 Ask me about **Data Science, python, Linux and SQL**
+
+- 📫 How to reach me **s236097@wakayama-u.ac.jp**
+
+- ⚡ Fun fact **My hobby is snowboarding. Let's go to the slopes together!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
