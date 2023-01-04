@@ -101,4 +101,4 @@
 </a> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hi-ku)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hi-ku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
