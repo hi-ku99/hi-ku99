@@ -2,9 +2,9 @@
 
 <h3 align="center">A Graduate Student Programmer</h3>
 
-- 🌱 I’m currently learning **Data Science and Linux**
+- 🌱 I’m currently learning **Data Science and Linux**.
 
-- 💬 Ask me about **Data Science, python, Linux and SQL**
+- 💬 Ask me about **Data Science, python, Linux and SQL**.
 
 - ⚡ Fun fact **My hobby is snowboarding. Let's go to the slopes together!**
 
